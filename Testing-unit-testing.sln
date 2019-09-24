@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing-unit-testing", "Testing-unit-testing\Testing-unit-testing.csproj", "{EA18E83B-FE60-49DD-AE78-0BD90E808684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTest", "BankTest\BankTest.csproj", "{EF86598B-600E-4798-A58D-4DBE88E36E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA18E83B-FE60-49DD-AE78-0BD90E808684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA18E83B-FE60-49DD-AE78-0BD90E808684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA18E83B-FE60-49DD-AE78-0BD90E808684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA18E83B-FE60-49DD-AE78-0BD90E808684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF86598B-600E-4798-A58D-4DBE88E36E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF86598B-600E-4798-A58D-4DBE88E36E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF86598B-600E-4798-A58D-4DBE88E36E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF86598B-600E-4798-A58D-4DBE88E36E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

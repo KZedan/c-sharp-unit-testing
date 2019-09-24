@@ -1,0 +1,11 @@
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/bin/Debug/netcoreapp3.0/Testing-unit-testing
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/bin/Debug/netcoreapp3.0/Testing-unit-testing.deps.json
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/bin/Debug/netcoreapp3.0/Testing-unit-testing.runtimeconfig.json
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/bin/Debug/netcoreapp3.0/Testing-unit-testing.runtimeconfig.dev.json
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/bin/Debug/netcoreapp3.0/Testing-unit-testing.dll
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/bin/Debug/netcoreapp3.0/Testing-unit-testing.pdb
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/obj/Debug/netcoreapp3.0/Testing-unit-testing.csprojAssemblyReference.cache
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/obj/Debug/netcoreapp3.0/Testing-unit-testing.AssemblyInfoInputs.cache
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/obj/Debug/netcoreapp3.0/Testing-unit-testing.AssemblyInfo.cs
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/obj/Debug/netcoreapp3.0/Testing-unit-testing.dll
+/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/obj/Debug/netcoreapp3.0/Testing-unit-testing.pdb
