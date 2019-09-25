@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/Stack.csproj",
-      "projectName": "Stack",
-      "projectPath": "/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/Stack.csproj",
+      "projectUniqueName": "/Users/kareem/Projects/Testing-unit-testing/StackLibrary/StackLibrary.csproj",
+      "projectName": "StackLibrary",
+      "projectPath": "/Users/kareem/Projects/Testing-unit-testing/StackLibrary/StackLibrary.csproj",
       "packagesPath": "/Users/kareem/.nuget/packages/",
-      "outputPath": "/Users/kareem/Projects/Testing-unit-testing/Testing-unit-testing/obj/",
+      "outputPath": "/Users/kareem/Projects/Testing-unit-testing/StackLibrary/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

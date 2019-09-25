@@ -1,33 +1,25 @@
 ﻿<Properties StartupConfiguration="{EA18E83B-FE60-49DD-AE78-0BD90E808684}|Default">
-  <MonoDevelop.Ide.ItemProperties.BankTest FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Testing-unit-testing/BankAccount.cs">
+  <MonoDevelop.Ide.ItemProperties.Stack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankTest/EmptyClass.cs">
     <Files>
-      <File FileName="BankTest/UnitTest1.cs" Line="1" Column="1" />
-      <File FileName="Testing-unit-testing/BankAccount.cs" Line="78" Column="24" />
-      <File FileName="Testing-unit-testing/EmptyClass.cs" Line="26" Column="2" />
+      <File FileName="Testing-unit-testing/Stack.cs" Line="1" Column="1" />
+      <File FileName="BankTest/EmptyClass.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Testing-unit-testing" expanded="True">
-            <Node name="BankTest" expanded="True" />
-            <Node name="Testing-unit-testing" expanded="True">
-              <Node name="BankAccount.cs" selected="True" />
+            <Node name="Stack" expanded="True" />
+            <Node name="StackTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="EmptyClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Testing-unit-testing" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Testing-unit-testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StackTest FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

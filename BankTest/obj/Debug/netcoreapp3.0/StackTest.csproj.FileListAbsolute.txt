@@ -1,0 +1,3 @@
+/Users/kareem/Projects/Testing-unit-testing/BankTest/obj/Debug/netcoreapp3.0/StackTest.csprojAssemblyReference.cache
+/Users/kareem/Projects/Testing-unit-testing/BankTest/obj/Debug/netcoreapp3.0/StackTest.AssemblyInfoInputs.cache
+/Users/kareem/Projects/Testing-unit-testing/BankTest/obj/Debug/netcoreapp3.0/StackTest.AssemblyInfo.cs

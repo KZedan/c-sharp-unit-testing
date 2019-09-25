@@ -8,11 +8,15 @@
 
   <ItemGroup>
     <PackageReference Include="nunit" Version="3.12.0" />
-    <PackageReference Include="NUnit3TestAdapter" Version="3.13.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.15.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.2.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Testing-unit-testing\Testing-unit-testing.csproj" />
+    <ProjectReference Include="..\Testing-unit-testing\Stack.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="BankAccountTest.cs" />
+    <Compile Remove="StackTest.cs" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,8 @@
+/Users/kareem/Projects/Testing-unit-testing/StackLibrary/bin/Debug/netcoreapp3.0/StackLibrary.deps.json
+/Users/kareem/Projects/Testing-unit-testing/StackLibrary/bin/Debug/netcoreapp3.0/StackLibrary.dll
+/Users/kareem/Projects/Testing-unit-testing/StackLibrary/bin/Debug/netcoreapp3.0/StackLibrary.pdb
+/Users/kareem/Projects/Testing-unit-testing/StackLibrary/obj/Debug/netcoreapp3.0/StackLibrary.csprojAssemblyReference.cache
+/Users/kareem/Projects/Testing-unit-testing/StackLibrary/obj/Debug/netcoreapp3.0/StackLibrary.AssemblyInfoInputs.cache
+/Users/kareem/Projects/Testing-unit-testing/StackLibrary/obj/Debug/netcoreapp3.0/StackLibrary.AssemblyInfo.cs
+/Users/kareem/Projects/Testing-unit-testing/StackLibrary/obj/Debug/netcoreapp3.0/StackLibrary.dll
+/Users/kareem/Projects/Testing-unit-testing/StackLibrary/obj/Debug/netcoreapp3.0/StackLibrary.pdb
