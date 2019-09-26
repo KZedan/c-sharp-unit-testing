@@ -10,7 +10,7 @@ namespace StackTests
         public void Creation()
         {
             Stack<int> s = new Stack<int>(3);
-            Assert.AreEqual(0, s.Size);
+            Assert.AreEqual(0, s.Count);
         }
     }
 }
